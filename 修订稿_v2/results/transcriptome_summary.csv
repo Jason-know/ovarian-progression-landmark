@@ -1,0 +1,2 @@
+genes_in_both,gene_z_spearman,gene_z_p,hallmark_nes_spearman,hallmark_nes_p,hallmarks_tested,hallmarks_fdr05_primary,hallmarks_replicated,max_abs_z_all,genes_bonferroni_all,top_genes
+8814,0.22236248627665728,3.539985181555357e-99,0.32763505402160864,0.020198123191657206,50,5,3,5.768764367174796,8,"PPIC (+5.8), DNAJC8 (+4.9), PDE1A (+4.7), PTGER3 (+4.7), SERPINF1 (+4.7), PCSK6 (-4.6), MATN2 (-4.6), STX12 (+4.6), COL5A2 (+4.5), TEAD1 (+4.5), WIPI1 (+4.4), NUAK1 (+4.4), FZD4 (-4.4), WDR41 (+4.4), LUZP1 (+4.3)"

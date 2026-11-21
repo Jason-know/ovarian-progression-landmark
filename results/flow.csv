@@ -1,0 +1,25 @@
+cohort,step,n
+TCGA,Available source patients,542
+TCGA,Stage III–IV invasive serous,493
+TCGA,Treatment eligible when reported,493
+TCGA,Valid baseline and endpoint fields,439
+TCGA,Alive and under OS observation after landmark,347
+TCGA,Progression status established at landmark,347
+AOCS,Available source patients,285
+AOCS,Stage III–IV invasive serous,222
+AOCS,Treatment eligible when reported,191
+AOCS,Valid baseline and endpoint fields,152
+AOCS,Alive and under OS observation after landmark,133
+AOCS,Progression status established at landmark,133
+UKE,Available source patients,206
+UKE,Stage III–IV invasive serous,161
+UKE,Treatment eligible when reported,161
+UKE,Valid baseline and endpoint fields,161
+UKE,Alive and under OS observation after landmark,146
+UKE,Progression status established at landmark,146
+ICON7,Available source patients,380
+ICON7,Stage III–IV invasive serous,252
+ICON7,Treatment eligible when reported,252
+ICON7,Valid baseline and endpoint fields,250
+ICON7,Alive and under OS observation after landmark,224
+ICON7,Progression status established at landmark,224

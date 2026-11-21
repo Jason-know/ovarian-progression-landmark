@@ -1,0 +1,3 @@
+slide,case,file_id,file_md5,file_page,stroma_pct_slide,mpp_x,mpp_y,x,y,width_px,height_px
+TCGA-09-0366-01A-01-BS1,TCGA-09-0366,e9206264-5233-4f7d-8535-c1bdca572edc,52af995bb49b6090b67eeb24ef5d67ce,https://portal.gdc.cancer.gov/files/e9206264-5233-4f7d-8535-c1bdca572edc,5,0.5001,0.5001,4290,4260,1520,1080
+TCGA-24-2033-01A-01-BS1,TCGA-24-2033,9b83823f-bd88-4b26-92c8-9af5165ecc69,a9f6360ad684465cffc88807513c5748,https://portal.gdc.cancer.gov/files/9b83823f-bd88-4b26-92c8-9af5165ecc69,35,0.5015,0.5015,7623,5962,1515,1077

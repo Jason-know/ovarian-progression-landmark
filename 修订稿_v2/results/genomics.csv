@@ -1,0 +1,49 @@
+feature,analysis,term,n,events,positive,estimate,lo,hi,p
+"HRD score, per 10 points",Progression-free survival from diagnosis,hrd10,415,305,,0.9304036551515419,0.8777852008264734,0.9861762999698569,0.015156837872645655
+"HRD score, per 10 points",Overall survival from diagnosis,hrd10,415,262,,0.8963186591197219,0.840275857290209,0.956099275869957,0.0008913285737661615
+"HRD score, per 10 points","Death within 24 months after the month-12 landmark, status adjusted",hrd10,327,98,,0.9498055771024799,0.8556499010233988,1.054322139482495,0.33362435749783814
+"HRD score, per 10 points","Death after the month-12 landmark, all follow-up, status adjusted",hrd10,327,222,,0.910568985677267,0.8486854191595787,0.9769649141591108,0.009082155414108511
+"HRD score, per 10 points","Post-progression survival, progression time adjusted",hrd10,271,201,,0.9201136766174202,0.8550298760005502,0.9901515744204026,0.026122462938696803
+"HRD score, per 10 points",Out-of-fold change in AUC when added to Status,hrd10,327,48,,-0.005422677609320581,-0.025414511401442217,0.0102482513755356,
+HRD score ≥42,Progression-free survival from diagnosis,hrd_high,415,305,226,0.7421246130488612,0.5868679371256561,0.9384546444816246,0.012760575155879625
+HRD score ≥42,Overall survival from diagnosis,hrd_high,415,262,226,0.5950804458825616,0.4620159811146261,0.7664685888515423,5.8309604938738344e-05
+HRD score ≥42,"Death within 24 months after the month-12 landmark, status adjusted",hrd_high,327,98,184,0.9087091426784587,0.5988168335207571,1.3789731012276158,0.6528028001674613
+HRD score ≥42,"Death after the month-12 landmark, all follow-up, status adjusted",hrd_high,327,222,184,0.6725516779023805,0.5091120485921775,0.8884601350529838,0.005229719472619764
+HRD score ≥42,"Post-progression survival, progression time adjusted",hrd_high,271,201,146,0.6683897137012569,0.49904754709314464,0.8951948806959382,0.006878592015949924
+HRD score ≥42,Out-of-fold change in AUC when added to Status,hrd_high,327,48,,-0.006182479833716115,-0.019931507049995224,0.006376110439421416,
+CCNE1 amplification,Progression-free survival from diagnosis,ccne1,417,306,82,1.3847801394518633,1.0460134610435965,1.833261335573193,0.022951636381547888
+CCNE1 amplification,Overall survival from diagnosis,ccne1,417,261,82,1.6956931465352447,1.2674863727074916,2.2685650190182938,0.0003763189009340176
+CCNE1 amplification,"Death within 24 months after the month-12 landmark, status adjusted",ccne1,329,98,62,1.157670111498887,0.7225238119559332,1.8548870845236372,0.5427129741062655
+CCNE1 amplification,"Death after the month-12 landmark, all follow-up, status adjusted",ccne1,329,222,62,1.4805419612317716,1.0696758635816366,2.04922310916547,0.017976715537524737
+CCNE1 amplification,"Post-progression survival, progression time adjusted",ccne1,272,201,52,1.1078213683288438,0.7840418295912964,1.565309576359898,0.5615400959149238
+CCNE1 amplification,Out-of-fold change in AUC when added to Status,ccne1,329,48,,-0.005734858170649781,-0.021228576399137333,0.009465551538751504,
+"Aneuploidy score, per SD",Progression-free survival from diagnosis,aneuploidy_sd,409,300,,1.1111276972421547,0.9889784462581018,1.2483636668219646,0.07615515589200951
+"Aneuploidy score, per SD",Overall survival from diagnosis,aneuploidy_sd,409,257,,1.0541544769766291,0.9291722536285013,1.1959479601229717,0.4127474038274247
+"Aneuploidy score, per SD","Death within 24 months after the month-12 landmark, status adjusted",aneuploidy_sd,322,96,,1.02885300892474,0.8397690259215163,1.2605114993517528,0.7836744787765381
+"Aneuploidy score, per SD","Death after the month-12 landmark, all follow-up, status adjusted",aneuploidy_sd,322,218,,0.9525202540101027,0.825843517003794,1.0986280277299827,0.5040769717202734
+"Aneuploidy score, per SD","Post-progression survival, progression time adjusted",aneuploidy_sd,267,197,,0.9438282983987615,0.81393251750464,1.094454193314894,0.4441251428466393
+"Aneuploidy score, per SD",Out-of-fold change in AUC when added to Status,aneuploidy_sd,322,48,,-0.007948771522869102,-0.018064302490318773,0.0007480517891730388,
+"Fraction of genome altered, per SD",Progression-free survival from diagnosis,fga_sd,417,306,,1.0215052341165656,0.9166627129045877,1.138339029871886,0.700169848213531
+"Fraction of genome altered, per SD",Overall survival from diagnosis,fga_sd,417,261,,0.9504708943973367,0.842290536464398,1.0725454958672185,0.40995961944899284
+"Fraction of genome altered, per SD","Death within 24 months after the month-12 landmark, status adjusted",fga_sd,329,98,,1.0257438982719629,0.8322997649826666,1.2641485545344051,0.8115798996164252
+"Fraction of genome altered, per SD","Death after the month-12 landmark, all follow-up, status adjusted",fga_sd,329,222,,0.9836364121028556,0.8581510179734257,1.1274712386864993,0.8126995333184831
+"Fraction of genome altered, per SD","Post-progression survival, progression time adjusted",fga_sd,272,201,,0.9216264515532938,0.7962790570586987,1.0667055835176906,0.2738624539425374
+"Fraction of genome altered, per SD",Out-of-fold change in AUC when added to Status,fga_sd,329,48,,-0.002867440485012862,-0.010840753513454473,0.006109233146374442,
+"Nonsynonymous mutation burden, per doubling",Progression-free survival from diagnosis,tmb_log2,395,284,,0.8732736530954701,0.7757836859814936,0.9830148364435953,0.024857719578354913
+"Nonsynonymous mutation burden, per doubling",Overall survival from diagnosis,tmb_log2,395,245,,0.8368177723362749,0.7381700623697125,0.9486485835659889,0.005374246188387594
+"Nonsynonymous mutation burden, per doubling","Death within 24 months after the month-12 landmark, status adjusted",tmb_log2,307,95,,0.7370726137425353,0.5874844698606655,0.9247496160334283,0.008390858161579091
+"Nonsynonymous mutation burden, per doubling","Death after the month-12 landmark, all follow-up, status adjusted",tmb_log2,307,207,,0.8345402981318911,0.7248227648597767,0.9608659426429597,0.01190131554318689
+"Nonsynonymous mutation burden, per doubling","Post-progression survival, progression time adjusted",tmb_log2,254,188,,0.9344476468139303,0.8007779284787564,1.0904301599507142,0.38934263658202994
+"Nonsynonymous mutation burden, per doubling",Out-of-fold change in AUC when added to Status,tmb_log2,307,45,,0.01567783269765266,-0.014339462889634278,0.04565859037509154,
+"Joint model: BRCA1/2, HRD score and CCNE1","Death after the month-12 landmark, all follow-up, status adjusted",early,178,130,56,2.5374098425110936,1.7400314632736709,3.7001909705465703,1.312952129843111e-06
+"Joint model: BRCA1/2, HRD score and CCNE1","Death after the month-12 landmark, all follow-up, status adjusted",brca,178,130,42,0.639145676111713,0.3956640309161087,1.032459772364077,0.06733817202724403
+"Joint model: BRCA1/2, HRD score and CCNE1","Death after the month-12 landmark, all follow-up, status adjusted",hrd10,178,130,,0.9221007432185675,0.8378190353746751,1.0148609004377556,0.09725129174821331
+"Joint model: BRCA1/2, HRD score and CCNE1","Death after the month-12 landmark, all follow-up, status adjusted",ccne1,178,130,31,1.6311404139529504,1.0308765707938012,2.5809288186478603,0.03663113946219754
+"Joint model: BRCA1/2, HRD score and CCNE1","Post-progression survival, progression time adjusted",ttp6,154,120,,0.7577585751163681,0.6666667267869639,0.8612970095714344,2.1860309229368614e-05
+"Joint model: BRCA1/2, HRD score and CCNE1","Post-progression survival, progression time adjusted",brca,154,120,31,0.7083488435162754,0.4184896326574577,1.1989737497787527,0.1990870273827387
+"Joint model: BRCA1/2, HRD score and CCNE1","Post-progression survival, progression time adjusted",hrd10,154,120,,0.9475624986104255,0.8609873204862801,1.042843102806344,0.2705421132068925
+"Joint model: BRCA1/2, HRD score and CCNE1","Post-progression survival, progression time adjusted",ccne1,154,120,26,1.3913985677452365,0.8594313291209069,2.252640680790374,0.1790398684612292
+"Joint model: BRCA1/2, HRD score and CCNE1",Progression-free survival from diagnosis,brca,222,172,47,0.6145776026541048,0.4082416301182354,0.9252011598490706,0.019676960285557012
+"Joint model: BRCA1/2, HRD score and CCNE1",Progression-free survival from diagnosis,hrd10,222,172,,0.9437375570067915,0.8676900710030994,1.0264501188489061,0.17671952921431583
+"Joint model: BRCA1/2, HRD score and CCNE1",Progression-free survival from diagnosis,ccne1,222,172,42,1.1519244621520581,0.7712763397076331,1.7204339070057644,0.48954043096052036
+"Joint model: BRCA1/2, HRD score and CCNE1",Out-of-fold change in AUC when added to Status,brca+hrd10+ccne1,178,28,,-0.007308366360190055,-0.05317141648937318,0.03786460959906978,

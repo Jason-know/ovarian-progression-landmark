@@ -1,0 +1,10 @@
+file,url,bytes,sha256
+GSE9891_eset.rda,https://zenodo.org/records/23125873/files/GSE9891_eset.rda?download=1,39550800,02b09c25992afe3556b61cedeb1476841fe7458eca10b82578c96c57b135cd69
+GSE32062.GPL6480_eset.rda,https://zenodo.org/records/23125873/files/GSE32062.GPL6480_eset.rda?download=1,19552060,b6a98bd76ed776a01de6ce10754f5a882668c1be3fac3301631731bd03aa223e
+GPL14951_full.txt,https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GPL14951&targ=self&form=text&view=data,61748204,c04d2950c404c8124ba971114697f8c2c1b9f658c7e71e45ca237559f76a5906
+hgnc_complete_set.txt,https://storage.googleapis.com/public-download-files/hgnc/tsv/tsv/hgnc_complete_set.txt,17007798,6df77ac3cbaeb86a6dce5e17d851ebb27b6b3cdcd2471a211a3d8464f00c54c4
+h.all.v2023.2.Hs.symbols.gmt,https://data.broadinstitute.org/gsea-msigdb/msigdb/release/2023.2.Hs/h.all.v2023.2.Hs.symbols.gmt,48690,8ff1f036f0988c99d42cf9e5ea24d355f10b8ece5e0d4f6edf26a0458f480780
+TCGA.HRD_withSampleID.txt,https://api.gdc.cancer.gov/data/66dd07d7-6366-4774-83c3-5ad1e22b177e,280336,35af0e8811dd47fd9954b052a0bc9900ac128f3fcf83ec6bcbdc0a7fb86e3e8d
+GSE165897_cellInfo_HGSOC.tsv.gz,https://ftp.ncbi.nlm.nih.gov/geo/series/GSE165nnn/GSE165897/suppl/GSE165897_cellInfo_HGSOC.tsv.gz,1156693,7366ec57d7de361360fd20a501f1942cc6c56f57f53a9dbd6028d63fff85d6fd
+GSE165897_UMIcounts_HGSOC.tsv.gz,https://ftp.ncbi.nlm.nih.gov/geo/series/GSE165nnn/GSE165897/suppl/GSE165897_UMIcounts_HGSOC.tsv.gz,110431971,d604a459df7e5e707d0e62b581a49f225fbce3696462a30a06f1220867d5bae7
+tcga_ov_pub_brca.json,"https://www.cbioportal.org/api (ov_tcga_pub, BRCA1/BRCA2, sequenced sample list)",61333,bfd7ea19495c276e72e23b5d7b746fc425a11a710db37c5e45fa9386fb1e5fba

@@ -1,0 +1,2 @@
+tcga_landmark_with_hrd,hrd_median,hrd_q1,hrd_q3,hrd_high,tcga_landmark_with_cna,ccne1_amplified,hrd_in_brca_carriers,hrd_in_noncarriers,hrd_in_ccne1_amp,hrd_in_ccne1_not_amp,early_progression_ccne1_amp,early_progression_ccne1_not_amp,early_progression_hrd_high,early_progression_hrd_low
+327,45.0,29.0,62.0,184,329,62,58.0,38.5,33.0,49.5,0.3870967741935484,0.2846441947565543,0.21739130434782608,0.3986013986013986

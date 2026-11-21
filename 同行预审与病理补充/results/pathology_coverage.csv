@@ -1,0 +1,6 @@
+subset,n,deaths12,early,stroma_median,stroma_q1,stroma_q3,median_slides
+TCGA all,347,50,103,10.0,5.0,17.5,2.0
+TCGA with stroma,342,49,101,10.0,5.0,17.5,2.0
+TCGA without stroma,5,1,2,,,,
+APOLLO all sites,59,5,9,20.0,10.0,40.0,
+APOLLO primary sites,44,4,6,20.0,10.0,45.0,

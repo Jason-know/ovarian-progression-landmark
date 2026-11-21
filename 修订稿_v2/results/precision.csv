@@ -1,0 +1,7 @@
+target,outcome_proportion,required_n,required_events
+O/E within about 0.8 to 1.2,0.1858310194912538,421,79
+Calibration slope ±0.1,0.1858310194912538,2126,395
+C statistic 0.80 ± 0.05,0.1858310194912538,640,119
+Available in AOCS,0.23210150612015576,133,30
+Available in UKE,0.20122934136294615,146,29
+Available in ICON7,0.15982006130603585,224,33

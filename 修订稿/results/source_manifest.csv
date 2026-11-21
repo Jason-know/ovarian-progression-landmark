@@ -1,0 +1,6 @@
+file,role,url,algorithm,checksum,bytes
+GSE30161_eset.rda,Clinical annotations only,https://zenodo.org/records/23125873/files/GSE30161_eset.rda?download=1,md5,f3adfa1325d442a92bb3a19c75931792,8133768
+GSE26193_eset.rda,Clinical annotations only,https://zenodo.org/records/23125873/files/GSE26193_eset.rda?download=1,md5,8bb579b2f61a12b9f60746f6161ea8b1,14926956
+GSE49997_eset.rda,Clinical annotations only,https://zenodo.org/records/23125873/files/GSE49997_eset.rda?download=1,md5,5fee135215d0dea9572c1bf0c6fe8828,14384588
+TCGA-09-0366-01A-01-BS1.svs,Exact H&E source,https://api.gdc.cancer.gov/data/e9206264-5233-4f7d-8535-c1bdca572edc?filename=TCGA-09-0366-01A-01-BS1.svs,md5,52af995bb49b6090b67eeb24ef5d67ce,37495565
+TCGA-24-2033-01A-01-BS1.svs,Exact H&E source,https://api.gdc.cancer.gov/data/9b83823f-bd88-4b26-92c8-9af5165ecc69?filename=TCGA-24-2033-01A-01-BS1.svs,md5,a9f6360ad684465cffc88807513c5748,81749667
